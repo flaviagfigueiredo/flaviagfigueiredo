@@ -1,19 +1,10 @@
 <h4 align="center"><samp> Hi there 👋  welcome to my Github! I'm a Front-End Developer ☁️ </samp></h4>
+<p align="center">🌱 I’m currently learning <b>React</b></p>
 
 
 <p align="center">
   <img src="https://media.giphy.com/media/1d7F9xyq6j7C1ojbC5/giphy.gif">
 </p>
-
-
-
-
-<p align="center">
-  <a href= "https://dev.to/ari_hacks"><img src="https://img.icons8.com/windows/32/000000/dev.png"/></a>
-  <a href= "https://twitter.com/ari_hacks"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a>	
-</p>
-
-
 
 <!--
 ### Hi there 👋
