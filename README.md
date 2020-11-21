@@ -5,7 +5,7 @@
     <img src="https://media.giphy.com/media/1d7F9xyq6j7C1ojbC5/giphy.gif">
   </p>
 
-  <p align="center"><samp>🌱 I’m currently learning <b>React</b></samp></p>
+  <p align="center"><samp>🌱 I’m currently learning <i><b>React</b></i></samp></p>
  </div>
 
 
