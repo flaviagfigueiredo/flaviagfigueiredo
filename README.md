@@ -1,4 +1,4 @@
-<h4 align="center"><samp> Hi there 👋🏾  welcome to my Github! I like to write in Python and I'm exploring Cloud Tech 🐍 ☁️ </samp></h4>
+<h4 align="center"><samp> Hi there 👋  welcome to my Github! I'm a Front-End Developer ☁️ </samp></h4>
 
 
 <p align="center">
