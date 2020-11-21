@@ -1,5 +1,7 @@
-<h4 align="center"><samp> Hi there 👋  welcome to my Github! I'm a Front-End Developer ☁️ </samp></h4>
-<p align="center">🌱 I’m currently learning <b>React</b></p>
+<div>
+  <h3 align="center"><samp> Hi there 👋  welcome to my Github! I'm a Front-End Developer ☁️ </samp></h3>
+  <p align="center"><samp>🌱 I’m currently learning <b>React</b></samp></p>
+ </div>
 
 
 <p align="center">
