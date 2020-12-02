@@ -6,12 +6,10 @@
   </p>
 
   <p align="center"><samp>🌱 I’m currently learning <i><b>React</b></i></samp></p>
- <hr>
 </div>
 
-![Flávia's github stats](https://github-readme-stats.vercel.app/api?username=flaviagfigueiredo&show_icons=true&theme=radical)
-
 <!--
+![Flávia's github stats](https://github-readme-stats.vercel.app/api?username=flaviagfigueiredo&show_icons=true&theme=radical)
 ### Hi there 👋
 **flaviagfigueiredo/flaviagfigueiredo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
