@@ -6,10 +6,10 @@
   </p>
 
   <p align="center"><samp>🌱 I’m currently learning <i><b>React</b></i></samp></p>
- </div>
  <hr>
-![Flávia's github stats](https://github-readme-stats.vercel.app/api?username=flaviagfigueiredo&show_icons=true&theme=radical)
+</div>
 
+![Flávia's github stats](https://github-readme-stats.vercel.app/api?username=flaviagfigueiredo&show_icons=true&theme=radical)
 
 <!--
 ### Hi there 👋
